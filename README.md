@@ -4,11 +4,6 @@ A simple memory game built with **HTML**, **CSS**, and **JavaScript** — test y
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Play Now] simon-game-rgpg.onrender.com 
-
-
----
 
 ## 📁 Project Files
 
